@@ -1,0 +1,217 @@
+(footprint "D_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+	(tags "diode handsolder")
+	(property "Reference" "REF**"
+		(at 1.9558 -0.0762 270)
+		(layer "F.SilkS")
+		(uuid "7b5bcd2d-2db9-4496-8344-6d5a81f798f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "4x 1N4148"
+		(at 0 1.05 180)
+		(layer "F.Fab")
+		(uuid "54eab412-0370-4da6-ab01-e6422c35df6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f320b43-824a-4558-a0ff-cc83e33ea7e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aa9a32d-c3ac-4e10-a147-40bea4f8904c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.035 0)
+		(end -0.985 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d60990d3-32e3-42ed-8a20-a18924dcc158")
+	)
+	(fp_line
+		(start -0.88 -0.35)
+		(end 0.88 -0.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "da249af7-2079-4c94-a18b-ee9e56fdd0d1")
+	)
+	(fp_line
+		(start -0.88 0.35)
+		(end -0.88 -0.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5c06497e-999f-4cd9-9524-0a36a3d0685f")
+	)
+	(fp_line
+		(start 0.88 -0.35)
+		(end 0.88 0.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "faa5120d-b0d3-4d66-84a2-8d8faa68d43e")
+	)
+	(fp_line
+		(start 0.88 0.35)
+		(end -0.88 0.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "abc700b1-1a6d-4cfb-8830-cab772136a9c")
+	)
+	(fp_line
+		(start -0.3 -0.15)
+		(end 0.3 -0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0f81b7f5-5895-4879-8766-9097fdd02c76")
+	)
+	(fp_line
+		(start -0.3 0.15)
+		(end -0.3 -0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3af3b892-310e-4f9b-a8b1-a9d2bcc581cd")
+	)
+	(fp_line
+		(start -0.2 0.15)
+		(end -0.2 -0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3523c40b-81f9-424b-ba62-45be70fea0b4")
+	)
+	(fp_line
+		(start -0.1 0.15)
+		(end -0.1 -0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2433c91d-a43d-46bc-a394-6bd483fcc92f")
+	)
+	(fp_line
+		(start 0.3 -0.15)
+		(end 0.3 0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1baa496b-0559-4ec3-8af3-17912cc17b26")
+	)
+	(fp_line
+		(start 0.3 0.15)
+		(end -0.3 0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c187b5ee-8d5c-4b92-807b-12ea00572b79")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.68 180)
+		(layer "F.Fab")
+		(uuid "67836eb2-130a-48d0-8175-54753c4a0199")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.04)
+			)
+		)
+	)
+	(pad "" smd roundrect
+		(at -0.4325 0)
+		(size 0.458 0.36)
+		(layers "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "6c440ecd-522c-4126-8a98-2f9a62ffdd21")
+	)
+	(pad "" smd roundrect
+		(at 0.4325 0)
+		(size 0.458 0.36)
+		(layers "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "e3edb15c-c901-4cb0-a584-8876b9f39290")
+	)
+	(pad "1" smd roundrect
+		(at -0.4075 0)
+		(size 0.635 0.4)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "64b9581f-d660-4997-b72a-f81c3141756c")
+	)
+	(pad "2" smd roundrect
+		(at 0.4075 0)
+		(size 0.635 0.4)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "bdc0882f-fe83-4336-a6d5-5435452b6bb0")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0201_0603Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

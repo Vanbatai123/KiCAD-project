@@ -1,0 +1,214 @@
+(footprint "LED_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator")
+	(tags "LED handsolder")
+	(property "Reference" "REF**"
+		(at -0.103 -3.181 0)
+		(layer "F.SilkS")
+		(uuid "004f9eba-2cd5-4974-a4b1-05cb841cf87f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED"
+		(at 0 2.65 0)
+		(layer "F.Fab")
+		(uuid "76b5b569-c2e9-4c23-85a0-4fdaa2914254")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0b424a5b-a7bf-4a57-8d04-5cb0032517c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "51f95018-e68a-464a-ac6e-49c0fe9cbe00")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 2.25 -1.96)
+		(end -3.135 -1.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b3d7e98-6e4c-4367-94c0-61e149ad8313")
+	)
+	(fp_line
+		(start -3.135 1.96)
+		(end 2.25 1.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cba42f8e-b160-4101-855c-7231b8241e1a")
+	)
+	(fp_line
+		(start -3.135 -1.96)
+		(end -3.135 1.96)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a1c7b17-fcb3-4be9-96de-deabf5ee3644")
+	)
+	(fp_line
+		(start 3.12 1.95)
+		(end -3.12 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "65d0b302-ee85-413b-acb7-e1f979e89b16")
+	)
+	(fp_line
+		(start 3.12 -1.95)
+		(end 3.12 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8f279927-c153-4c6e-8165-aa49adab6b26")
+	)
+	(fp_line
+		(start -3.12 1.95)
+		(end -3.12 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "701f2dac-0401-404c-a0db-da6a3f617b6d")
+	)
+	(fp_line
+		(start -3.12 -1.95)
+		(end 3.12 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8c3fe6d9-e611-4774-ae92-48db819cf6ba")
+	)
+	(fp_line
+		(start 2.25 1.6)
+		(end 2.25 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1ebd62eb-c970-4693-9bb8-3de22c87b560")
+	)
+	(fp_line
+		(start 2.25 -1.6)
+		(end -1.45 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b16728a6-f342-43c4-adeb-cc2747a08e49")
+	)
+	(fp_line
+		(start -1.45 -1.6)
+		(end -2.25 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad68f41a-181a-4c66-a673-9dbe3b231528")
+	)
+	(fp_line
+		(start -2.25 1.6)
+		(end 2.25 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "98ab294f-d3ab-4af7-94e0-c3f155388ca2")
+	)
+	(fp_line
+		(start -2.25 -0.8)
+		(end -2.25 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "53828ac5-e712-4bde-a58a-3ac93f9c51bb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "75b312f8-5620-48c9-b490-a2c46e4c67af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.225 0 180)
+		(size 1.3 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.192308)
+		(uuid "38547b9c-0e78-468a-aa03-b19e24549173")
+	)
+	(pad "2" smd roundrect
+		(at 2.225 0 180)
+		(size 1.3 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.192308)
+		(uuid "a77828f2-135b-44cb-94af-ac161450a56e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1812_4532Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

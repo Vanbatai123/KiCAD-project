@@ -1,0 +1,2627 @@
+Importer Log Report
+Document: E:\PCB_design\KiCAD\out_source\240213_laing_board\Laing_board_6\Pro Mini version.kicad_pcb
+    Section : Analyze Document from - E:\PCB_design\KiCAD\out_source\240213_laing_board\Laing_board_6\Pro Mini version.kicad_pcb
+        Warning: Unknown child 'generator' of 'kicad_pcb'.
+        Warning: Unknown child 'paper' of 'kicad_pcb'.
+        Warning: Unknown child stackup of setup.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child 'footprint' of 'kicad_pcb'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child mid of gr_arc.
+        Warning: Cannot construct point from node: gr_arc
+        Error: Cannot build arc from node 'gr_arc'.
+        Warning: Unknown child 'gr_rect' of 'kicad_pcb'.
+        Warning: Unknown child free of via.
+        Warning: Unknown child free of via.
+        Warning: Unknown child free of via.
+        Warning: Unknown child free of via.
+        Warning: Unknown child filled_areas_thickness of zone.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child pads of keepout.
+        Warning: Unknown child footprints of keepout.
+        Warning: Unknown child filled_areas_thickness of zone.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child layer of filled_polygon.
+        Warning: Unknown child 'group' of 'kicad_pcb'.
+    EndSection
+    Section : Import Document - E:\PCB_design\KiCAD\out_source\240213_laing_board\Laing_board_6\Imported Pro Mini version\Pro Mini version.PcbDoc
+    EndSection
